@@ -4,7 +4,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Para acessar meu podcast é só clicar nesse link a seguir:
-* 🎧🎙️	[Podcast RH 42: Explorando o Universo do RH](🎙️	[Podcast RH 42: Explorando o Universo do RH](https://www.notion.so/PAS-Podcast-AI-Studio-9e2655e8f48140b999a3ae641a0f020e?pvs=4))
+* 🎧🎙️	[Podcast RH 42: Explorando o Universo do RH](https://www.notion.so/PAS-Podcast-AI-Studio-9e2655e8f48140b999a3ae641a0f020e?pvs=4))
 
 ## 🤖 Tecnologias Utilizadas
 
