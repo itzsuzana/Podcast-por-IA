@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Para acessar meu podcast é só clicar nesse link a seguir:
-* 🎧🎙️	[Podcast RH 42: Explorando o Universo do RH]([https://www.notion.so/PAS-Podcast-AI-Studio-9e2655e8f48140b999a3ae641a0f020e?pvs=4](https://holy-beanie-aea.notion.site/PAS-Podcast-AI-Studio-d824f794589f4bb289cfe328505f3590)))
+* 🎧🎙️	[Podcast RH 42: Explorando o Universo do RH](https://holy-beanie-aea.notion.site/PAS-Podcast-AI-Studio-d824f794589f4bb289cfe328505f3590)
 
 ## 🤖 Tecnologias Utilizadas
 
